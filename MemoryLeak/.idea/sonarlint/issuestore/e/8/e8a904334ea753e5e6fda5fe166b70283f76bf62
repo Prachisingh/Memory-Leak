@@ -1,15 +1,0 @@
-
-h
-java:S1192"FDefine a constant instead of duplicating this literal "Singh" 4 times.(äŒóïÿÿÿÿÿ8Éç‰²¤1
-X
-java:S1854";Remove this useless assignment to local variable "person4".(òÅ·µ8Å®ˆ²¤1
-]
-java:S1854	";Remove this useless assignment to local variable "person2".(¡À’Àúÿÿÿÿ8äæ²¤1
-]
-java:S1854";Remove this useless assignment to local variable "person1".(äŒóïÿÿÿÿÿ8…¢²¤1
-N
-java:S1481",Remove this unused "person1" local variable.(äŒóïÿÿÿÿÿ8…¢²¤1
-N
-java:S1481	",Remove this unused "person2" local variable.(¡À’Àúÿÿÿÿ8äæ²¤1
-I
-java:S1481",Remove this unused "person4" local variable.(òÅ·µ8¹—Š²¤1
